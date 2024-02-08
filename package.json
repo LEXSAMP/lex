@@ -1,4 +1,10 @@
 {
+  "name": "LEXSAMP API",
+  "version": "1.0.0",
+  "main": "./lex/samp/index.js",
+  "scripts": {
+    "start": "node ./lex/samp/index.js"
+  },
   "dependencies": {
     "async-samp-query": "^1.1.7",
     "express": "^4.18.2",
