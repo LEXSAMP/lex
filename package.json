@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async-samp-query": "^1.1.7",
+    "express": "^4.18.2",
+    "ping": "^0.4.4",
+    "samp-query": "^0.1.5"
+  }
+}
